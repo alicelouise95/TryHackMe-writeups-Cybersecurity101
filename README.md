@@ -1,6 +1,6 @@
 # TryHackMe Writeups: Cybersecurity 101 Module
 
-This repository documents my progress through TryHackMe's Pre-Security course. Each file contains a summary of what I’ve learned in a given room, written in my own words.
+This repository documents my progress through TryHackMe's Cyber security 101 course. Each file contains a summary of what I’ve learned in a given room, written in my own words.
 
 ---
 
