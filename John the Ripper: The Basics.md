@@ -15,8 +15,6 @@ Understand the fundamentals of hashing, hash security, and practical password cr
 
 ### **Key Topics Covered**
 
-### **Key Topics Covered**
-
 **1. What Are Hashes?**
 
 -   A **hash** is a fixed-length representation of data, created by passing input through a hashing algorithm.
